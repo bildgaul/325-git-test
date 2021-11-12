@@ -1,0 +1,1 @@
+I plan to use this repo to practice with git. Specifically, I wish to practice version control, despite the fact I know the basics. I have already done this in 352, but I get more practice to actually do it using git this time instead of Visual Studio!
